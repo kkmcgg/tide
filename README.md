@@ -6,7 +6,7 @@ _tides go in, tides go out.. you can't explain that_
 
 
 sofar:
-1. Real basic baby tide calculator notebook ([source1](https://pytmd.readthedocs.io/en/latest/_modules/pyTMD/predict.html#time_series), [source2](https://github.com/digitalearthafrica/deafrica-coastlines/blob/main/coastlines/raster.py#L149))
+1. Real basic baby tide calculator notebook ([source1](https://pytmd.readthedocs.io/en/latest/_modules/pyTMD/predict.html#time_series), [source2](https://github.com/digitalearthafrica/deafrica-coastlines/blob/main/coastlines/raster.py#L149)[source3](https://www.tpxo.net/home))
 2. added tidal constituents from DFO WebTide for Northwest Atlantic ([source](https://www.bio.gc.ca/science/research-recherche/ocean/webtide/nwatlantic-noatlantique-en.php#DETAILS))
 
 todo:
